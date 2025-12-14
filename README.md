@@ -49,7 +49,8 @@ The analytics layer was built using a star schema design:
 - `dim_category`
 - `dim_dish`
 
-![Star Schema Diagram](diagrams/star_schema.png)
+<img width="1024" height="559" alt="image" src="https://github.com/user-attachments/assets/d7deed11-d7f6-47a9-9ef6-d2b207cb4ce3" />
+
 
 ---
 
